@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="60" fill="#001825"/>
+  <!-- Sling belt graphic -->
+  <rect x="86" y="216" width="340" height="80" rx="10" fill="#f59e0b"/>
+  <rect x="86" y="234" width="340" height="44" rx="6" fill="#003a5c"/>
+  <rect x="86" y="246" width="340" height="20" rx="3" fill="#f59e0b"/>
+  <!-- Eye loops -->
+  <rect x="86" y="216" width="50" height="80" rx="6" fill="#f59e0b"/>
+  <rect x="376" y="216" width="50" height="80" rx="6" fill="#f59e0b"/>
+  <!-- W lettermark -->
+  <text x="256" y="190" text-anchor="middle" font-family="'Barlow Condensed', Arial Narrow, sans-serif" font-size="148" font-weight="800" fill="#f59e0b" letter-spacing="-2">W</text>
+  <!-- SLING label -->
+  <text x="256" y="370" text-anchor="middle" font-family="'Barlow Condensed', Arial Narrow, sans-serif" font-size="40" font-weight="700" fill="rgba(255,255,255,0.4)" letter-spacing="8">SLING</text>
+</svg>
